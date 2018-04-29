@@ -1,0 +1,1 @@
+# Loading spinner with three styling variants
